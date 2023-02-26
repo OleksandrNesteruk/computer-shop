@@ -1,4 +1,4 @@
-package com.example.computershop;
+package com.example.computer_shop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,6 +8,7 @@ public class ComputerShopApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ComputerShopApplication.class, args);
+
 	}
 
 }
